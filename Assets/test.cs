@@ -17,4 +17,8 @@ public class test : MonoBehaviour {
 	{
 		
 	}
+
+	public void dsfds()
+	{
+		}
 }
