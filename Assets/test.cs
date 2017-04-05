@@ -12,9 +12,4 @@ public class test : MonoBehaviour {
 	void Update () {
 	
 	}
-
-	void thisvoid()
-	{
-		
-	}
 }
